@@ -10,6 +10,7 @@ public class Main {
         input.nextLine();
         String symbol = input.nextLine();
         int c = input.nextInt();
+        //blah blah
         //skal skrives linje for linje
 
         input.close();
