@@ -9,22 +9,22 @@ public class Main {
         int a = input.nextInt();
         input.nextLine();
         String symbol = input.nextLine();
-        int c = input.nextInt();
+        int b = input.nextInt();
         //skal skrives linje for linje
 
         input.close();
 
         if((symbol.equals("+"))){
-            System.out.println(pluser(a,c));
+            System.out.println(pluser(a,b));
         }
         else if((symbol.equals("-"))){
-            System.out.println(pluser(a,c));
+            System.out.println(pluser(a,b));
         }
         else if((symbol.equals("/"))){
-            System.out.println(pluser(a,c));
+            System.out.println(pluser(a,b));
         }
         else if((symbol.equals("*"))){
-            System.out.println(pluser(a,c));
+            System.out.println(pluser(a,b));
         }
     }
 
