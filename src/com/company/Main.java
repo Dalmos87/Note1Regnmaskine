@@ -34,3 +34,4 @@ public class Main {
     }
 
 }
+// den virker som det skal
