@@ -9,7 +9,8 @@ public class Main {
         int a = input.nextInt();
         input.nextLine();
         String symbol = input.nextLine();
-        int b = input.nextInt();
+        //int b = input.nextInt();
+        int b=0;
         //skal skrives linje for linje
 
         input.close();
